@@ -11,4 +11,6 @@ This is a sound analysis for detection of crimes like violence, armed firing, ra
   
 ## RUN
 
-*python3 sounddetection.py
+* python3 sounddetection.py
+
+
