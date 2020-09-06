@@ -1,7 +1,7 @@
 **Version 1.0.0**
 # Sound-Analysis-for-crime-detection
 
-This is a sound analysis for detection of crimes like violence, armed firing, rapes using machine lerning library SK learn and pyaudio.
+This is a sound analysis for detection of crimes like violence, armed firing, rapes using machine learning library SK learn and pyaudio.
 
 # DEPENDENCIES:
 
